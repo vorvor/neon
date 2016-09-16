@@ -1,2 +1,4 @@
-hey!
+<?php
+ print "hey!";
+?>
 
