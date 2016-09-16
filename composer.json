@@ -1,0 +1,8 @@
+{
+    "name": "vorvor/neon",
+    "autoload": {
+        "psr-0" : {
+            "lib\\neon" : "src"
+        }
+    }
+}
