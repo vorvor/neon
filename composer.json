@@ -4,5 +4,8 @@
         "psr-0" : {
             "lib\\neon" : "src"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
     }
 }
